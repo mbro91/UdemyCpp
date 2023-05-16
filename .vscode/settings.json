@@ -151,14 +151,14 @@
   "C_Cpp.default.cStandard": "c11",
   "C_Cpp.formatting": "clangFormat",
   "[c]": {
-    "editor.formatOnSave": true,
+    "editor.formatOnSave": false,
     "editor.defaultFormatter": "ms-vscode.cpptools"
   },
   "[cpp]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "ms-vscode.cpptools"
   },
-  "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+  "C_Cpp.codeAnalysis.clangTidy.enabled": false,
   "C_Cpp.configurationWarnings": "disabled",
   "cmake.configureOnOpen": false,
   "cmake.autoSelectActiveFolder": false,
